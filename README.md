@@ -25,6 +25,3 @@ This Python script is a web scraper designed to help you find job listings that 
 
 ## Output
 The output of this script is a collection of text files, each representing a job listing that matches your specified skills and filters. These text files contain essential information about the job, making it easy for you to review and explore relevant job opportunities.
-
-## Note
-- Please ensure that you use this script responsibly and adhere to the terms of use of the job search website you are scraping.
